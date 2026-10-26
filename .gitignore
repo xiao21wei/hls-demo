@@ -1,0 +1,28 @@
+# Build output
+/build/
+/cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.o
+*.a
+*.so
+/production_scheduling
+
+# Experiment output
+/logs/
+/result_barnes/
+/HLS_FJSP_barnes.csv
+/xx.xlsx
+/pd_vs_names*.png
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
